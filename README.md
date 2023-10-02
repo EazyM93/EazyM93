@@ -7,5 +7,5 @@ I completed a six-month intensive course at Epicode School After in September 20
 
 ----------------------------------------
 
-### 🧰 Languages and Tools
+### 🧰 BACK-END Languages and Tools
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
