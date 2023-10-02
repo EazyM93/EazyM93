@@ -21,6 +21,8 @@ I completed a six-month intensive course at Epicode School After in September 20
 <img align="left" alt="PostgreSql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="PostgreSql" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 
-IDE
+-----------------------------------------
+
+### 🏖️ IDE
 <img align="left" alt="IntelliJ" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg"/>
 
