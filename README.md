@@ -49,4 +49,4 @@ I completed a six-month intensive course at Epicode School After in September 20
 <img align="left" alt="AppleOs" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EazyM93)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EazyM93&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
