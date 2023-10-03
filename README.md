@@ -8,6 +8,9 @@ I completed a six-month intensive course at Epicode School After in September 20
 <a href="https://www.linkedin.com/in/manuel-centini/"><img align="left" alt="Linkedin" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
 
+<br />
+<br />
+
 ----------------------------------------
 
 ### 🧰 BACK-END Languages and Tools
