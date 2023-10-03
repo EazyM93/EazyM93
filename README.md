@@ -46,4 +46,4 @@ I completed a six-month intensive course at Epicode School After in September 20
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EazyM93&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EazyM93&layout=compact&theme=radical&hide_border=true)
