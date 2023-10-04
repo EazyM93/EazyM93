@@ -8,7 +8,7 @@ I completed a six-month intensive course at Epicode School After in September 20
 <div class="badge-base LI-profile-badge" data-locale="it_IT" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="manuel-centini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/manuel-centini?trk=profile-badge">Manuel Centini</a></div>
               
 
-<div align="center">
+<div align="left">
   <h2>🧰 LANGUAGES AND TOOLS 🧰</h2>
   <img alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="Spring" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
@@ -21,7 +21,7 @@ I completed a six-month intensive course at Epicode School After in September 20
   <img alt="Typescript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 </div>
-<div align="center">
+<div align="left">
   <h2>🏖️ IDE & OS & EXTRAS🏖️</h2> 
   <img alt="VSCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img alt="Eclipse" width="50px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg"/>
