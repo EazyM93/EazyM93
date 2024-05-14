@@ -29,7 +29,7 @@ I completed a six-month intensive course at Epicode School in September 2023, af
   <img alt="Eclipse" width="50px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg"/>
   <img alt="IntelliJ" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
   <img alt="npm" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  <img alt="AppleOs" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
+  <img alt="AppleOs" width="50px" style="padding-right:10px; color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"/>
   <img alt="Windows" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
   
           
