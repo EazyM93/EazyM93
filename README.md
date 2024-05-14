@@ -1,6 +1,6 @@
 <h1>🧑🏻‍💻 Manuel Centini </h1> <a href="https://www.linkedin.com/in/manuel-centini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-**`Full-stack Developer`** 
+**`Full-Stack Developer`** 
 
 I am a junior Full-Stack Developer building my new professional life with consistency, diligence and determination.
 I have been working at Synergica since November 2023 under a full-time indefinite contract as a Junior Software Developer.
