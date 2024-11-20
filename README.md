@@ -13,7 +13,6 @@ I completed a six-month intensive course at Epicode School in September 2023, af
   <img alt="Material" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />   
   <img alt="Quarkus" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" /> 
   <img alt="Spring" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img alt="Wildfly" width="50px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/wildfly/wildfly-icon.svg"/>
   
 </div>
 <div align="left">
