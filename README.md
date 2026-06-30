@@ -35,7 +35,7 @@ Today, my passion lies in Back-end Development, particularly with Java and moder
   <img alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img alt="PostgreSql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img alt="SQLite" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /> 
-  <img alt="Kafka" width="50px" style="padding-right:10px;" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwj9ysqs8k279ex7l5nvp.png" />  
+  <img alt="Kafka" width="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1yxB1sVNRp_5lEjGWp0xRreVwsuf98S7M9GI5qZUBcMTcWo1fXd1IYic&s=10" />  
   
 </div>
 <div align="left">
