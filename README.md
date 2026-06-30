@@ -2,10 +2,13 @@
 
 **`Full-Stack Developer`** 
 
-I am a junior Full-Stack Developer building my new professional life with consistency, diligence and determination.
-I have been full-time working at Synergica since November 2023 as a Junior Software Developer.
-I completed a six-month intensive course at Epicode School in September 2023, after working years in kitchens as a chef. I get back on code and decide to start a professional carrier in tech. I am a passionate good worker in love with ${\color{aqua}Back-end}$ and want to grow as developer.
-            
+Since May 2026, I have been working full-time at Capgemini as a Software Developer, where I contribute to the development of enterprise applications and backend services.
+
+Previously, I worked at Synergica as a Junior Software Developer from November 2023 to May 2026, gaining hands-on experience with modern software development practices and full-stack technologies.
+
+I completed a six-month intensive Software Development Bootcamp at Epicode School in September 2023.
+
+Today, my passion lies in Back-end Development, particularly with Java and modern backend technologies. I enjoy designing scalable APIs, writing clean and maintainable code, and continuously expanding my knowledge as a software engineer.
 
 <div align="left">
   <h2>🧰 FRAMEWORK 🧰</h2>
