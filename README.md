@@ -10,6 +10,32 @@ I completed a six-month intensive Software Development Bootcamp at Epicode Schoo
 
 Today, my passion lies in Back-end Development, particularly with Java and modern backend technologies. I enjoy designing scalable APIs, writing clean and maintainable code, and continuously expanding my knowledge as a software engineer.
 
+## 🚀 Tech Stack
+
+### ☕ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker&perline=8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg" width="48" alt="Quarkus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="48" alt="Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" alt="SQLite" />
+</p>
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass&perline=8" />
+</p>
+
+### 🛠️ Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,eclipse,npm&perline=8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="48" alt="DBeaver" />
+</p>
+
+### 💻 Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=apple,windows&perline=8" />
+</p>
+
 <div align="left">
   <h2>🧰 FRAMEWORK 🧰</h2>
   <img alt="Angular" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>  
