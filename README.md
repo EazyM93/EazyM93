@@ -19,6 +19,9 @@ Today, my passion lies in Back-end Development, particularly with Java and moder
     alt="Quarkus"
     style="vertical-align: middle;" />
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,sqlite&perline=8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg"
+    width="48"
+    alt="DBeaver" />
 </p>
 
 ### 🌐 Frontend
