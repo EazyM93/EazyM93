@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`** 
 
-Since May 2026, I have been working full-time at Capgemini as a Software Developer, where I contribute to the development of enterprise applications and backend services.
+Since May 2026, I have been working full-time at <b>Capgemini as a Software Developer</b>, where I contribute to the development of enterprise applications and backend services.
 
 Previously, I worked at Synergica as a Junior Software Developer from November 2023 to May 2026, gaining hands-on experience with modern software development practices and full-stack technologies.
 
@@ -14,11 +14,11 @@ Today, my passion lies in Back-end Development, particularly with Java and moder
 
 ### ☕ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,sqlite&perline=8" />
   <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" 
     width="48"
     alt="Quarkus"
     style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,sqlite&perline=8" />
 </p>
 
 ### 🌐 Frontend
