@@ -16,14 +16,17 @@ Today, my passion lies in Back-end Development, particularly with Java and moder
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,quarkus,spring,postgres,docker,kafka,sqlite&perline=8" />
 </p>
+
 ### 🌐 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass&perline=8" />
 </p>
+
 ### 🛠️ Tools & IDEs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,eclipse,npm&perline=8" />
 </p>
+
 ### 💻 Operating Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=apple,windows&perline=8" />
