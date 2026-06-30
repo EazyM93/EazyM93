@@ -14,7 +14,11 @@ Today, my passion lies in Back-end Development, particularly with Java and moder
 
 ### ☕ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,quarkus,spring,postgres,docker,kafka,sqlite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kafka,sqlite&perline=8" />
+  <img src="https://design.jboss.org/quarkus/logo/final/SVG/quarkus_icon_rgb_default.svg" 
+    width="48"
+    alt="Quarkus"
+    style="vertical-align: middle;" />
 </p>
 
 ### 🌐 Frontend
